@@ -42,7 +42,7 @@ components.html(
     """,
     height=69,
 )
-st.write(f"## Founders")
+st.write(f"##Major Project by Pranay and Santosh")
 
 
 # Add EyeCare description
