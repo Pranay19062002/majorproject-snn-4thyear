@@ -1,5 +1,5 @@
-tensorflow==2.15.1
-keras==2.1.1
+tensorflow
+keras
 streamlit
 pandas
 numpy
