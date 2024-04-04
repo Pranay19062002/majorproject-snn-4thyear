@@ -58,7 +58,7 @@ model.compile(optimizer='adam', loss='binary_crossentropy', metrics=['accuracy']
 #     validation_data=val_generator,
 #     epochs=10
 # )
-model.save("Model.h5","label.txt")
+model.save("snn_model.pth","label.txt")
 # Evaluate the model on test data
 test_loss, test_acc = model.evaluate(test_generator)
 print('Test accuracy:', test_acc)
