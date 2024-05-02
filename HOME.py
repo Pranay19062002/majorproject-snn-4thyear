@@ -40,7 +40,7 @@ components.html(
 
 
 def page_layout():
-    st.write("EyeCare is an app that combines various ML models into one in order to determine if you have a disease.The app uses advanced algorithms to diagnose various diseases, including lung cancer, tuberculosis, and pneumonia.")
+    st.write("EyeCare is an app that combines various ML models into one in order to determine if you have a disease.")
     st.markdown("## Benefits:")
     st.write("- Fast and accurate diagnosis of diseases")
     st.write("- Non-invasive and painless diagnosis using EEG Imaging")
