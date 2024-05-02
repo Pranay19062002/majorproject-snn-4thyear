@@ -3,7 +3,7 @@ import streamlit.components.v1 as components
 
 # Set page title
 st.set_page_config(
-    page_title="EyeCare AI",
+    page_title="Eye  Disease Predictor",
     page_icon="👁️👁️",
     initial_sidebar_state="expanded",
 )
@@ -40,19 +40,18 @@ components.html(
 
 
 def page_layout():
-    st.write("EyeCare is an app that combines various ML models into one in order to determine if you have a disease.")
+    st.write("EyeCare  is an app that combines various ML models into one in order to determine if you have a disease.")
     st.markdown("## Benefits:")
     st.write("- Fast and accurate diagnosis of diseases")
-    st.write("- Non-invasive and painless diagnosis using EEG Imaging")
     st.write("- Accessible from anywhere, anytime")
     st.markdown("## Why is our app unique?")
-    st.write("- EyeCare combines multiple ML models into one app")
-    st.write("- The app uses CNN on EEG imagery to diagnose diseases")
-    st.write("- EyeCare uses advanced algorithms to provide fast and accurate diagnosis")
+    st.write("- EyeCare  combines multiple ML models into one app")
+    st.write("- The app uses CNN on imagery to diagnose diseases")
+    st.write("- EyeCare  Predictor uses advanced algorithms to provide fast and accurate diagnosis")
     st.markdown("## Relevance:")
-    st.write("- EyeCare can diagnose various diseases, including lung cancer, tuberculosis, and pneumonia")
+    st.write("- EyeCare Disease Predictor can diagnose various diseases, including lung cancer, tuberculosis, and pneumonia")
     st.write("- The app can be used by doctors, hospitals, and patients")
-    st.write("- EyeCare can improve the accuracy and speed of disease diagnosis")
+    st.write("- EyeCare  can improve the accuracy and speed of disease diagnosis")
     st.markdown("## Uses:")
     st.write("- Hospitals and clinics can use EyeCare to diagnose diseases more quickly")
     st.write("- Patients can use EyeCare to get a quick and accurate diagnosis without the need for invasive procedures")
