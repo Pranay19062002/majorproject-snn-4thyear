@@ -1,1 +1,1 @@
-# majorproject-snn-4thyear
+# Glaucoma Disease  Prediction Using SNN(Spike Neural Network)
